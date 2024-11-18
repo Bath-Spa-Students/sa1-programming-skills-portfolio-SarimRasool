@@ -15,7 +15,7 @@ _____(_________)
 
 '''
 
-word1 = "coding"
-word2 = " is cool"
-word3 = word1 + " " + word2
-print(word3)
+word_1 = "Coding is"
+word_2 = "Cool"
+word_3 = word_1 + " " + word_2
+print(word_3)
